@@ -49,15 +49,15 @@ TIL 폴더에는 각 날짜 별 수업 내용, 작업 내용, 느낀점 등 **�
 
 <br>
 
-* [🌘 2021.06.01 (1일차)]()
+* [🌘 2021.06.01 (1일차)](https://github.com/hjkim1004/WoowahanTechLearning/blob/main/TIL/Day01.md)
 
-* [🌗 2021.06.03 (2일차)]()
-* [🌖 2021.06.08 (3일차)]()
-* [🌝 2021.06.10 (4일차)]()
-* [🌔 2021.06.15 (5일차)]()
-* [🌓 2021.06.17 (6일차)]()
-* [🌒 2021.06.22 (7일차)]()
-* [🌚 2021.06.24 (8일차)]()
+* [🌗 2021.06.03 (2일차)](https://github.com/hjkim1004/WoowahanTechLearning/blob/main/TIL/Day02.md)
+* [🌖 2021.06.08 (3일차)](https://github.com/hjkim1004/WoowahanTechLearning/blob/main/TIL/Day03.md)
+* [🌝 2021.06.10 (4일차)](https://github.com/hjkim1004/WoowahanTechLearning/blob/main/TIL/Day04.md)
+* [🌔 2021.06.15 (5일차)](https://github.com/hjkim1004/WoowahanTechLearning/blob/main/TIL/Day05.md)
+* [🌓 2021.06.17 (6일차)](https://github.com/hjkim1004/WoowahanTechLearning/blob/main/TIL/Day06.md)
+* [🌒 2021.06.22 (7일차)](https://github.com/hjkim1004/WoowahanTechLearning/blob/main/TIL/Day07.md)
+* [🌚 2021.06.24 (8일차)](https://github.com/hjkim1004/WoowahanTechLearning/blob/main/TIL/Day08.md)
 
 <br>
 
