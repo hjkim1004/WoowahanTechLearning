@@ -2,6 +2,8 @@
 
 우아한 테크러닝 4기 과정에 참여하면서 나오는 산출물을 관리하는 Repository입니다.
 
+<br>
+
 #### 🗨 Subject
 
 * 클래스 명: 우아한 테크러닝 4기 : 나만의 노션 만들기 (feact.시니어봇)
@@ -17,7 +19,6 @@
 <br>
 
 #### 🌟 우아한 형제들 DR Team
-
 * DR(Developer Relations)이란 
 
 > IR과 DR
@@ -30,7 +31,6 @@
 <br>
 
 #### 🛠 사용 기술
-
 - [Frontend] React, Typescript
 - [Backend] java, Spring framework
 
