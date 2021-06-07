@@ -1,0 +1,52 @@
+#root {
+    display: flex;
+    height: 100vh;
+    background: linear-gradient(120deg, #6060c1, #23a1a1);
+}
+.login-container {
+    margin: auto;
+    background: white;
+    padding: 50px 40px;
+    text-align: center;
+    border-radius: 5px;
+    box-shadow: 1px 1px 5px;
+}
+.login-title {
+    margin-bottom: 25px;
+    color: #053a3c;
+}
+input, button {
+    outline: none;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 5px;
+}
+input {
+    width: 300px;
+    border: solid 2px lightgray;
+}
+input:hover, input:focus {
+    border: solid 2px #186d71;
+}
+button {
+    width: 325px;
+    cursor: pointer;
+    font-weight: bold;
+}
+.login-button {
+    background: #186d71;
+    border: solid 2px #186d71;
+    color: white;
+}
+.login-button:hover {
+    background: #28959b;
+    border: solid 2px #28959b;
+}
+.login-button-google {
+    background: #eee;
+    border: solid 2px #e7e7e7;
+    color: #333;
+}
+.login-button-google:hover {
+    background: #ddd;
+}
